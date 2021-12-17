@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pankaj Saini
 - 👀 I’m interested in Software Development
-- 🌱 I’m constantly improving myself more on new age web and software technologies like ReactJS, Node.JS, NoSQL etc...
+- 🌱 I’m constantly improving myself more on Competitive programming and on new age web and software technologies like ReactJS, Node.JS, NoSQL etc...
 - 💞️ I’m looking to collaborate on Open source Web or software development project.
 - 📫 You can reach out me via email at `sainipankaj1708@gmail.com`
 
